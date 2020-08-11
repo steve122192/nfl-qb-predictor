@@ -1,0 +1,617 @@
+﻿Year,Name,College,POS,Height (in),Weight (lbs),Wonderlic,40 Yard,Bench Press,Vert Leap (in),Broad Jump (in),Shuttle,3Cone
+2019,Jake Browning,Washington,QB,74,211,,4.74,,29,112,4.44,7.19
+2019,Ryan Finley,North Carolina State,QB,76,213,,4.73,,30.5,116,4.2,7.2
+2019,Nick Fitzgerald,Mississippi State,QB,77,226,,4.64,,29.5,115,,
+2019,Will Grier,West Virginia,QB,74,217,,4.84,,34,112,4.28,7.09
+2019,Dwayne Haskins,Ohio State,QB,75,231,,5.04,,28.5,,,
+2019,Tyree Jackson,Buffalo,QB,79,249,,4.59,,34.5,120,4.28,7.09
+2019,Daniel Jones,Duke,QB,77,221,,4.81,,33.5,120,4.41,7
+2019,Drew Lock,Missouri,QB,76,228,,4.69,,31,112,4.12,7.03
+2019,Trace McSorley,Penn State,QB,72,202,,4.57,,33,115,4.12,7.09
+2019,Gardner Minshew,Washington State,QB,73,225,,4.97,,33.5,116,4.45,7.14
+2019,Kyler Murray,Oklahoma,QB,70,207,,,,,,,
+2019,Brett Rypien,Boise State,QB,74,210,,4.91,,33,116,4.29,7.1
+2019,Kyle Shurmur,Vanderbilt,QB,76,230,,4.91,,29.5,106,4.53,7.51
+2019,Easton Stick,North Dakota State,QB,73,224,,4.62,,33.5,118,4.05,6.65
+2019,Jarrett Stidham,Auburn,QB,74,218,,4.81,,31,110,4.33,7.28
+2019,Jordan Ta'amu-Perifanos,Mississippi,QB,75,221,,4.77,,27.5,109,4.36,7.06
+2019,Clayton Thorson,Northwestern,QB,76,222,,,,,,,
+2018,Austin Allen,Arkansas,QB,72,210,,4.81,,29.5,112,4.48,7.18
+2018,Josh Allen,Wyoming,QB,77,237,,4.75,,33.5,119,4.4,6.9
+2018,J.T. Barrett,Ohio State,QB,73,224,,4.7,,30,108,4.44,7.38
+2018,Kurt Benkert,Virginia,QB,75,218,,4.95,16,31,112,4.33,7.15
+2018,Sam Darnold,Southern California,QB,75,221,,4.85,,26.5,105,4.4,6.96
+2018,Danny Etling,Louisiana State,QB,74,222,,4.76,,30.5,114,4.37,7.09
+2018,Luke Falk,Washington State,QB,76,215,,,,26.5,103,,
+2018,Riley Ferguson,Memphis,QB,75,212,,4.98,,29,110,4.4,6.96
+2018,Quinton Flowers,South Florida,QB,70,214,,4.63,,,112,4.57,6.81
+2018,Lamar Jackson,Louisville,QB,74,216,,,,,,,
+2018,Kyle Lauletta,Richmond (VA),QB,75,222,,4.81,,31,113,4.07,6.95
+2018,Tanner Lee,Nebraska,QB,76,218,,4.98,,32,115,4.41,7
+2018,Chase Litton,Marshall (WV),QB,77,230,,4.9,,29.5,106,4.53,7.49
+2018,Baker Mayfield,Oklahoma,QB,73,215,,4.84,,29,111,4.28,7
+2018,Josh Rosen,UCLA,QB,76,226,,4.92,,31,111,4.28,7.09
+2018,Mason Rudolph,Oklahoma State,QB,77,235,,4.9,,26,,,
+2018,Nic Shimonek,Texas Tech,QB,75,220,,4.88,,28.5,101,4.32,7.28
+2018,Mike White,Western Kentucky,QB,77,224,,5.09,,27,96,4.4,7.4
+2018,Logan Woodside,Toledo,QB,73,213,,4.79,,31.5,103,4.15,6.94
+2017,C.J. Beathard,Iowa,QB,74.13,219,26,,,31,113,,
+2017,Joshua Dobbs,Tennessee,QB,75.25,216,29,4.64,,33,122,4.31,6.75
+2017,Jerod Evans,Virginia Tech,QB,74.63,232,21,4.8,,26.5,112,4.41,
+2017,Brad Kaaya,Miami (FL),QB,75.75,214,34,,,,,,
+2017,Chad Kelly,Mississippi,QB,74,224,22,,,,,4.08,
+2017,DeShone Kizer,Notre Dame,QB,76.13,233,28,4.83,,30.5,107,4.53,7.4
+2017,Mitch Leidner,Minnesota,QB,75.38,226,,4.93,,34.5,123,4.25,6.96
+2017,Sefo Liufau,Colorado,QB,75.38,232,,5.08,,27,105,4.45,7.32
+2017,Patrick Mahomes,Texas Tech,QB,74.13,225,24,4.8,,30,114,4.08,6.88
+2017,Nathan Peterman,Pittsburgh,QB,74.63,226,33,4.82,,31,110,4.31,7.14
+2017,Antonio Pipkin,Tiffin (OH),QB,73,225,,,,,,,
+2017,Cooper Rush,Central Michigan,QB,74.63,228,,4.93,,27,105,4.47,7.23
+2017,Seth Russell,Baylor,QB,74.88,213,,,,,,,
+2017,Alek Torgersen,Pennsylvania,QB,75,230,,,,,,4.31,
+2017,Mitchell Trubisky,North Carolina,QB,74.13,222,25,4.67,,27.5,116,4.25,6.87
+2017,Deshaun Watson,Clemson,QB,74.13,221,20,4.66,,32.5,119,4.31,6.95
+2017,Davis Webb,California,QB,77,229,25,4.79,,33,118,,6.92
+2016,Vernon Adams,Oregon,QB,70.88,200,,4.83,,29.5,114,4.2,6.82
+2016,Brandon Allen,Arkansas,QB,73.38,217,,4.84,,28,110,4.33,7.06
+2016,Trevone Boykin,Texas Christian,QB,72,212,,4.77,,32,110,4.4,
+2016,Jacoby Brissett,North Carolina State,QB,75.75,231,,4.94,,31,113,4.53,7.17
+2016,Connor Cook,Michigan State,QB,76,217,,4.79,,33,113,4.28,7.21
+2016,Brandon Doughty,Western Kentucky,QB,74.75,213,,5.22,,27,103,4.52,7.49
+2016,Jeff Driskel,Louisiana Tech,QB,76,234,,4.56,,32,122,4.25,7.19
+2016,Jared Goff,California,QB,76,215,36,4.82,,27,110,4.47,7.17
+2016,Christian Hackenberg,Penn State,QB,76.38,223,,4.78,,31,114,4.33,7.04
+2016,Kevin Hogan,Stanford,QB,75.25,218,,4.78,,32.5,113,4.31,6.9
+2016,Cardale Jones,Ohio State,QB,77,253,,4.81,,36,,,
+2016,Cody Kessler,Southern California,QB,73.25,220,,4.89,,29.5,104,4,7.32
+2016,Paxton Lynch,Memphis,QB,78.63,244,,4.86,,36,118,4.26,7.14
+2016,Dak Prescott,Mississippi State,QB,74.25,226,,4.79,,32.5,116,4.32,7.11
+2016,Joel Stave,Wisconsin,QB,77.25,236,,4.8,,33.5,115,4.33,7.29
+2016,Nate Sudfeld,Indiana,QB,78.13,234,,,,29,105,,
+2016,Carson Wentz,North Dakota State,QB,77.25,237,29,4.77,,30.5,118,4.15,6.86
+2016,Josh Woodrum,Liberty (VA),QB,74,231,,4.8,,31,116,4.31,6.74
+2015,Bryan Bennett,Southeastern Louisiana,QB,74.25,211,,4.81,,37,125,4.2,7.13
+2015,Chris Bonner,Colorado State-Pueblo,QB,78,237,,5.12,,,,,
+2015,Anthony Boone,Duke,QB,72.25,231,20,5.03,,26.5,100,4.62,7.47
+2015,Brandon Bridge,South Alabama,QB,76.38,229,,4.72,,33,110,4.37,7.18
+2015,Terrance Broadway,Louisiana-Lafayette,QB,73,223,,4.62,,,,,
+2015,Shane Carden,East Carolina (NC),QB,73.88,218,25,4.94,,29.5,104,4.45,7.17
+2015,Rakeem Cato,Marshall (WV),QB,71,171,,4.7,,,,,
+2015,Quinn Epperly,Princeton,QB,73,218,,4.89,,,,,
+2015,Cody Fajardo,Nevada,QB,73.5,223,31,4.63,,32.5,118,4.1,6.95
+2015,Garrett Grayson,Colorado State,QB,74.5,213,20,4.84,,,,,
+2015,Connor Halliday,Washington State,QB,75,196,31,4.87,,,,,
+2015,Grant Hedrick,Boise State,QB,73,191,,4.76,,,,,
+2015,Taylor Heinicke,Old Dominion (VA),QB,73,211,,4.76,,,,,
+2015,Brett Hundley,UCLA,QB,75.25,226,26,4.63,,36,120,3.98,6.93
+2015,Matt Joeckel,Texas Christian,QB,76,237,,4.95,,,,,
+2015,Taylor Kelly,Arizona State,QB,74,198,,4.84,,,,,
+2015,Jerry Lovelocke,Prairie View A&M,QB,76.5,248,,4.99,,31.5,113,4.51,7.3
+2015,Andrew Manley,Eastern Illinois,QB,75,225,,4.9,,,,,
+2015,Sean Mannion,Oregon State,QB,77.63,229,40,5.14,,31,105,4.39,7.29
+2015,Marcus Mariota,Oregon,QB,75.75,222,,4.52,,36,121,4.11,6.87
+2015,Hutson Mason,Georgia,QB,74,207,,4.79,,,,,
+2015,Nick Montana,Tulane (LA),QB,73,207,,4.84,,,,,
+2015,Tyler Murphy,Boston College,QB,73,210,,4.78,,,,,
+2015,Mark Myers,John Carroll (OH),QB,76,220,,4.92,,,,,
+2015,Gary Nova,Rutgers,QB,73,222,,4.63,,,,,
+2015,Bryce Petty,Baylor,QB,74.88,230,31,4.87,,34,121,4.13,6.91
+2015,Kevin Rodgers,Henderson State (AR),QB,74,201,,5.12,,,,,
+2015,Garrett Safron,Sacramento State (CA),QB,73,200,,4.76,,,,,
+2015,Jesse Scroggins,Arizona,QB,75,208,,4.79,,,,,
+2015,Max Shortell,Jacksonville State (AL),QB,77,240,,5.04,,,,,
+2015,Jameill Showers,Texas-El Paso,QB,73,231,,4.76,,,,,
+2015,Trevor Siemian,Northwestern,QB,75,210,,4.94,,,,,
+2015,Blake Sims,Alabama,QB,71.5,218,,4.57,,30.5,115,,
+2015,Cole Stoudt,Clemson,QB,76,218,,4.86,,,,,
+2015,Pete Thomas,Louisiana-Monroe,QB,77,232,,5.06,,,,,
+2015,Dylan Thompson,South Carolina,QB,74,223,,4.83,,,,,
+2015,Bo Wallace,Mississippi,QB,76,211,,5.08,,,,,
+2015,Jake Waters,Kansas State,QB,73,204,,4.85,,,,,
+2015,Ryan Williams,Miami (FL),QB,76,220,,5.06,19,40,123,4.18,6.96
+2015,Jameis Winston,Florida State,QB,76,231,27,4.97,,28.5,103,4.36,7.16
+2014,Blake Bortles,Central Florida,QB,77,232,28,4.93,,32.5,114,4.21,7.08
+2014,Tajh Boyd,Clemson,QB,72.63,222,,4.84,,30.5,104,4.23,7.33
+2014,Teddy Bridgewater,Louisville,QB,74.13,214,20,,,30,112,4.2,7.17
+2014,Derek Carr,Frenso State (CA),QB,74.38,214,20,4.69,,34.5,110,4.2,
+2014,David Fales,San Jose State,QB,73.63,212,,4.99,,28,102,4.5,7.55
+2014,Jimmy Garoppolo,Eastern Illinois,QB,74.25,226,24,4.97,,30.5,110,4.26,7.04
+2014,Jordan Lynch,Northern Illinois,QB,72.13,217,,4.76,,29.5,109,4.2,6.55
+2014,Johnny Manziel,Texas A&M,QB,71.75,207,32,4.68,,31.5,112,4.03,6.75
+2014,Jeff Mathews,Cornell (NY),QB,75.75,223,,5.26,,25.5,104,4.36,7.14
+2014,A.J. McCarron,Alabama,QB,75.25,220,,4.94,,28,99,4.34,
+2014,Zach Mettenberger,Louisiana State,QB,76.88,224,,,,,,,
+2014,Stephen Morris,Miami (FL),QB,73.88,213,,4.63,,30,111,4.49,7.36
+2014,Bryn Renner,North Carolina,QB,75.25,228,,4.87,,25.5,108,4.3,7.22
+2014,Tom Savage,Pittsburgh,QB,75.88,228,,4.97,,27,104,4.36,7.33
+2014,Connor Shaw,South Carolina,QB,72.38,206,,4.66,,34,115,4.33,7.07
+2014,Logan Thomas,Virginia Tech,QB,78.13,248,,4.61,,35.5,116,4.18,7.05
+2014,Dustin Vaughan,West Texas A&M,QB,76.88,235,,4.95,,29,108,4.43,7.25
+2014,Keith Wenning,Ball State (IN),QB,75,218,,5,,28,99,4.25,7.07
+2013,Matt Barkley,Southern California,QB,74,230,30,4.91,,,,,
+2013,Tyler Bray,Tennessee,QB,78.13,232,24,5.05,,,100,4.51,7.2
+2013,Colby Cameron,Louisiana Tech,QB,74.13,212,,4.78,,30.5,112,4.28,6.98
+2013,Zac Dysert,Miami (OH),QB,75,227,24,4.81,,,,,
+2013,Mike Glennon,North Carolina State,QB,79.13,225,26,4.94,,26.5,102,4.52,7.49
+2013,Landry Jones,Oklahoma,QB,76.13,225,28,5.11,,31,115,4.3,7.12
+2013,Collin Klein,Kansas State,QB,76.88,226,,4.78,,29,111,4.4,7.17
+2013,E.J. Manuel,Florida State,QB,76.63,237,28,4.65,,34,118,4.21,7.08
+2013,Ryan Nassib,Syracuse,QB,74.13,227,41,5.06,,28.5,105,4.53,7.34
+2013,Matt Scott,Arizona,QB,74.13,213,22,4.69,,31,118,3.99,6.69
+2013,Geno Smith,West Virginia,QB,74.38,218,24,4.58,,33.5,124,,
+2013,Brad Sorensen,Southern Utah,QB,76.5,229,,4.97,,29,112,4.55,7.17
+2013,James Vandenberg,Iowa,QB,74.75,226,,4.92,,32,116,4.52,6.95
+2013,Tyler Wilson,Arkansas,QB,74,215,20,4.95,,28.5,112,4.39,7.22
+2012,B.J. Coleman,Tennessee-Chattanooga,QB,75,233,,4.95,,,109,4.38,7.07
+2012,Aaron Corp,Richmond (VA),QB,75.5,215,,4.61,,31.5,106,4.3,7.03
+2012,Kirk Cousins,Michigan State,QB,74.63,214,33,4.84,,28.5,109,4.5,7.05
+2012,Austin Davis,Southern Mississippi,QB,73.63,219,,4.69,,31,109,4.11,6.73
+2012,Nick Foles,Arizona,QB,77,243,29,5.03,,30.5,112,,
+2012,Robert Griffin,Baylor,QB,74.38,223,24,4.33,,39,120,,
+2012,Tyler Hansen,Colorado,QB,73,218,,4.85,,,,,
+2012,Chandler Harnish,Northern Illinois,QB,73.63,219,,4.68,,32.5,112,4.15,6.78
+2012,Jacory Harris,Miami (FL),QB,75,203,,4.65,,37,113,4.4,7.1
+2012,Jordan Jefferson,Louisiana State,QB,76.13,223,,4.58,14,36.5,116,4.06,6.81
+2012,Case Keenum,Houston,QB,72.63,208,,4.72,,32.5,103,,
+2012,Ryan Lindley,San Diego State,QB,75.75,229,35,4.86,,29.5,108,4.45,7.52
+2012,Andrew Luck,Stanford,QB,76,234,37,4.59,,36,124,4.28,6.8
+2012,Kellen Moore,Boise State,QB,72,197,26,4.82,,27,99,4.56,7.41
+2012,Brock Osweiler,Arizona State,QB,78.88,242,25,4.83,,,,,
+2012,Ryan Tannehill,Texas A&M,QB,75.88,221,34,4.65,,,,,
+2012,Darron Thomas,Oregon,QB,74.63,220,,4.77,14,36,121,4.28,7.17
+2012,Brandon Weeden,Oklahoma State,QB,75.5,221,27,4.89,,,,,
+2012,Russell Wilson,Wisconsin,QB,70.63,204,28,4.53,,34,118,4.09,6.97
+2012,Patrick Witt,Yale,QB,76,225,,5.08,,31.5,101,4.37,7.14
+2011,Ryan Colburn,Frenso State (CA),QB,74.75,233,,5.12,,,,4.28,6.84
+2011,Andy Dalton,Texas Christian,QB,74,215,29,4.83,,29.5,106,4.27,6.93
+2011,Pat Devlin,Delaware,QB,75.38,225,,4.81,,33,116,4.32,7.08
+2011,Nathan Enderle,Idaho,QB,76.13,240,,5.12,,25.5,102,4.46,7.13
+2011,Blaine Gabbert,Missouri,QB,76.38,234,42,4.61,,33.5,120,4.26,6.84
+2011,Jerrod Johnson,Texas A&M,QB,77.13,251,,4.75,,29,119,4.31,7.28
+2011,Colin Kaepernick,Nevada,QB,76.63,233,,4.53,,32.5,115,4.18,6.85
+2011,Jake Locker,Washington,QB,74.5,231,20,4.51,,35,115,4.12,6.77
+2011,Ryan Mallett,Arkansas,QB,78.75,253,26,5.24,,24,103,,
+2011,Greg McElroy,Alabama,QB,73.88,220,43,4.84,,33,107,4.45,7.11
+2011,Cam Newton,Auburn,QB,77,248,21,4.56,,35,126,4.18,6.92
+2011,Christian Ponder,Florida State,QB,74,229,35,4.63,,34,116,4.09,6.85
+2011,Josh Portis,California (PA),QB,74.88,211,,4.59,,40,126,4.12,6.84
+2011,Ricky Stanzi,Iowa,QB,76.38,223,30,4.87,,32.5,110,4.43,6.95
+2011,Tyrod Taylor,Virginia Tech,QB,72.75,217,,4.47,,37.5,126,4.09,6.78
+2011,Scott Tolzien,Wisconsin,QB,74,212,,4.92,,29.5,116,4.12,6.84
+2011,Jeff Van Camp,Florida Atlantic,QB,77,218,,4.83,,31,114,4.16,6.87
+2011,Taylor Yates,North Carolina,QB,75,219,,5.06,,29.5,104,4.12,6.96
+2010,Sam Bradford,Oklahoma,QB,76.25,236,36,4.79,,,,,
+2010,Jarrett Brown,West Virginia,QB,74.88,224,,4.5,,34.5,114,4.39,7.24
+2010,Levi Brown,Troy (AL),QB,75.5,229,,4.93,20,31.5,106,4.43,7.07
+2010,Sean Canfield,Oregon State,QB,75.75,223,,4.93,,29.5,100,4.39,7.26
+2010,Daryll Clark,Penn State,QB,73.88,235,,4.72,21,,,,
+2010,Jimmy Clausen,Notre Dame,QB,74.63,222,23,4.76,,,,,
+2010,Max Hall,Brigham Young,QB,72.63,209,,4.84,,32,102,4.35,7.07
+2010,Tim Hiller,Western Michigan,QB,76,229,,4.97,18,32.5,118,4.54,7.1
+2010,Mike Kafka,Northwestern,QB,75.13,225,,4.93,,32,110,4.37,6.96
+2010,Dan LeFevour,Central Michigan,QB,75.25,230,,4.6,,29.5,110,4.22,6.93
+2010,Thaddeus Lewis,Duke,QB,72.5,215,,4.84,,28,107,,
+2010,Colt McCoy,Texas,QB,73.13,216,25,4.79,,,114,,
+2010,Tony Pike,Cincinnati,QB,77.75,223,,4.9,,28.5,108,4.53,7.06
+2010,Zac Robinson,Oklahoma State,QB,74.5,214,,4.68,,35,110,4.4,7.24
+2010,John Skelton,Fordham (NY),QB,77.38,243,24,4.85,,33.5,108,4.33,7.17
+2010,Riley Skinner,Wake Forest,QB,72,214,,5.05,,30,101,4.29,7.04
+2010,Jevan Snead,Mississippi,QB,75,219,22,5.04,,33,106,4.33,7.08
+2010,Tim Tebow,Florida,QB,75,236,22,4.71,,38.5,115,4.17,6.66
+2009,Jason Boltus,Hartwick (NY),QB,74.75,225,,4.82,26,31.5,111,4.47,7
+2009,Rhett Bomar,Sam Houston State (TX),QB,74.25,225,,4.7,25,,106,4.06,6.91
+2009,Tom Brandstater,Frenso State (CA),QB,77,220,,4.87,,28.5,106,4.37,6.93
+2009,Nathan Brown,Central Arkansas,QB,72.63,219,,4.86,,30.5,106,4.44,7.43
+2009,Hunter Cantwell,Louisville,QB,76.38,235,,5.22,,26,99,4.59,7.4
+2009,Chase Daniel,Missouri,QB,72,218,,4.79,,33,,4.31,7.28
+2009,Nate Davis,Ball State (IN),QB,73.38,226,,4.95,,26.5,99,,
+2009,Josh Freeman,Kansas State,QB,77.75,248,27,4.9,,33.5,119,4.43,7.11
+2009,Cullen Harper,Clemson,QB,75,225,,4.95,19,30,105,4.49,7.43
+2009,Graham Harrell,Texas Tech,QB,74.13,223,23,5.07,,29.5,98,4.56,7.45
+2009,Chase Holbrook,New Mexico State,QB,76.13,242,,5.12,,27,108,4.65,7.93
+2009,Brian Hoyer,Michigan State,QB,74,215,,5.02,,32,109,4.42,7.1
+2009,Stephen McGee,Texas A&M,QB,74.88,225,,4.61,,33,112,4.49,7.34
+2009,Curtis Painter,Purdue,QB,74.88,225,,4.87,,29,102,4.48,7
+2009,Mike Reilly,Central Washington,QB,75,214,,4.79,,30.5,109,4.11,6.76
+2009,Mark Sanchez,Southern California,QB,74.13,227,28,4.93,,32.5,116,4.21,7.06
+2009,Matthew Stafford,Georgia,QB,74.25,225,38,4.81,,30.5,107,4.47,7.06
+2009,Pat White,West Virginia,QB,72.25,197,,4.55,,35,117,4.42,7.06
+2009,Drew Willy,Buffalo,QB,75.13,215,,4.9,,30.5,109,4.45,7.18
+2009,John Parker Wilson,Alabama,QB,74,219,,4.75,,29.5,105,4.59,7.53
+2008,Erik Ainge,Tennessee,QB,77.5,225,22,5.04,,21.5,108,4.6,7.51
+2008,John David Booty,Southern California,QB,74.38,218,14,4.93,,22.5,99,4.58,
+2008,Alex Brink,Washington State,QB,74.25,211,27,5.03,,28,112,4.19,7.22
+2008,Brian Brohm,Louisville,QB,74.88,230,32,4.85,,30,115,4.55,7.13
+2008,Joe Flacco,Delaware,QB,78.38,236,27,4.86,,28.5,110,4.27,6.82
+2008,Matt Flynn,Louisiana State,QB,74.25,231,38,4.81,,28,109,4.34,7.21
+2008,Chad Henne,Michigan,QB,74.88,230,22,4.95,,25.5,106,4.4,7.17
+2008,Josh Johnson,San Diego,QB,74.75,213,24,4.53,16,33.5,110,4.42,7.56
+2008,Sam Keller,Nebraska,QB,75.63,241,,5.03,,24,107,4.35,7.07
+2008,Anthony Morelli,Penn State,QB,75.63,231,,5.09,16,26.5,108,4.6,7.43
+2008,Bernard Morris,Marshall (WV),QB,75,223,,4.77,18,24.5,109,,
+2008,Kevin O'Connell,San Diego State,QB,77,225,24,4.66,,31,113,4.38,7.01
+2008,Matt Ryan,Boston College,QB,76.75,228,32,4.94,,,,4.51,7.4
+2008,Paul Smith,Tulsa (OK),QB,73.25,208,,4.97,,26.5,111,4.29,7.02
+2008,Adam Tafralis,San Jose State,QB,73.13,221,,4.85,,32,108,4.33,7.14
+2008,Kyle Wright,Miami (FL),QB,75.4,218,,4.9,,25.5,105,4.32,7.34
+2007,John Beck,Brigham Young,QB,74.13,215,30,4.78,,29.5,111,4.17,6.81
+2007,Trent Edwards,Stanford,QB,76.13,231,31,4.78,19,,,4.46,7.14
+2007,Luke Getsy,Akron,QB,74.5,222,20,4.99,,32.5,106,4.46,6.95
+2007,Matt Gutierrez,Idaho State,QB,76.25,232,28,5.04,,29.5,108,4.28,6.99
+2007,Kevin Kolb,Houston,QB,75.13,218,,4.89,,32.5,112,4.44,6.94
+2007,Toby Korrodi,Central Missouri,QB,75.5,234,12,5.37,,25,91,4.64,7.77
+2007,Chris Leak,Florida,QB,71.88,209,,4.77,,32.5,113,4.41,7.03
+2007,Tyler Palko,Pittsburgh,QB,73.38,215,18,4.88,,31.5,112,4.36,7.05
+2007,Jordan Palmer,Texas-El Paso,QB,77.63,231,23,4.99,,30.5,104,4.58,7.32
+2007,James Pinkney,East Carolina (NC),QB,74.5,208,,4.81,,34,112,4.49,7.35
+2007,Brady Quinn,Notre Dame,QB,75.75,232,29,4.73,24,,,,
+2007,Jeff Rowe,Nevada,QB,77.25,226,21,4.91,,29.5,114,4.42,6.72
+2007,JaMarcus Russell,Louisiana State,QB,77.5,265,24,4.83,,,,,
+2007,Drew Stanton,Michigan State,QB,75.25,226,35,4.77,,30.5,108,4.41,6.77
+2007,John Stocco,Wisconsin,QB,73.63,207,,5.1,,27,104,4.6,7.29
+2007,Josh Swogger,Montana,QB,76.5,237,,5.14,,28.5,107,4.76,7.25
+2007,Zac Taylor,Nebraska,QB,74.38,216,,5.08,,30.5,110,4.6,7.39
+2007,Jared Zabransky,Boise State,QB,74.1,219,36,4.59,,35.5,111,4.08,6.78
+2006,Brett Basanez,Northwestern,QB,73.25,220,,4.79,,34,114,4.22,6.75
+2006,Kellen Clemens,Oregon,QB,73.63,224,35,4.89,,,,,
+2006,Brodie Croyle,Alabama,QB,74.5,205,24,4.94,,30.5,104,4.25,7.34
+2006,Jay Cutler,Vanderbilt,QB,75.25,226,26,4.81,23,,,4.26,7.1
+2006,Bruce Eugene,Grambling State (LA),QB,72.25,260,,5.13,,27.5,94,4.76,7.97
+2006,Bruce Gradkowski,Toledo,QB,73.38,217,,4.63,,34,107,4.16,7.12
+2006,Darrell Hackney,Alabama-Birmingham,QB,71.63,239,40,4.86,,33,110,4.69,7.62
+2006,Tarvaris Jackson,Alabama State,QB,74,226,19,4.7,22,31.5,107,4.38,7.4
+2006,Omar Jacobs,Bowling Green (OH),QB,75.88,232,38,4.86,,32.5,108,4.29,7.47
+2006,Matt Leinart,Southern California,QB,76.88,223,35,4.9,,,,,
+2006,Travis Lulay,Montana State,QB,74.38,216,37,4.74,,35,111,4.07,6.93
+2006,Ingle Martin,Furman (SC),QB,74.25,220,30,4.72,,36,111,4.17,7.13
+2006,Reggie McNeal,Texas A&M,QB,74,198,,4.43,,32,121,4.25,6.96
+2006,Erik Meyer,Eastern Washington,QB,73,210,,4.7,,32.5,112,4.12,6.83
+2006,Barrick Nealy,Texas State,QB,76,226,,4.65,,32.5,114,4.26,6.94
+2006,Drew Olson,UCLA,QB,73.63,222,,5.12,,23,97,4.42,
+2006,Paul Pinegar,Frenso State (CA),QB,76.88,232,,5.14,,29,110,4.49,7.36
+2006,Quinton Porter,Boston College,QB,76.63,233,,4.72,,33.5,116,4.1,6.76
+2006,D.J. Shockley,Georgia,QB,73.13,214,19,4.61,,37.5,121,4.17,7.07
+2006,Kent Smith,Central Michigan,QB,76.75,216,,4.64,,35,122,4.47,7.41
+2006,Marcus Vick,Virginia Tech,QB,72,200,11,4.51,,36,117,4.08,6.94
+2006,Charlie Whitehurst,Clemson,QB,76.75,223,33,4.76,,33,112,4.11,7
+2006,Vince Young,Texas,QB,76.6,229,15,4.48,,,,,
+2005,Jared Allen,Florida Atlantic,QB,74.25,218,19,5,,27.5,106,4.39,7.29
+2005,Derek Anderson,Oregon State,QB,78.13,242,23,5.06,,29,101,4.62,7.67
+2005,Brock Berlin,Miami (FL),QB,73.5,221,13,4.89,,29,106,4.54,7.49
+2005,Jason Campbell,Auburn,QB,76.75,230,28,4.72,,,,,7.42
+2005,Timmy Chang,Hawaii,QB,73,211,26,5.1,,29,103,4.2,7.24
+2005,Ryan Fitzpatrick,Harvard,QB,74.38,232,48,4.87,,30.5,103,4.07,7.09
+2005,Charlie Frye,Akron,QB,75.88,225,38,4.85,,33,109,4.08,6.94
+2005,David Greene,Georgia,QB,75.5,226,21,4.8,,31.5,113,4.1,7
+2005,Gino Guidugli,Cincinnati,QB,75.75,229,30,5.04,,29,97,4.52,7.41
+2005,Josh Haldi,Northern Illinois,QB,74,215,30,4.68,,33,113,4.07,6.89
+2005,Stefan LeFors,Louisville,QB,72.13,208,35,4.61,,31,111,4.09,7.03
+2005,Dustin Long,Sam Houston State (TX),QB,74.5,208,,4.69,,30.5,108,4.08,6.77
+2005,Adrian McPherson,Florida State,QB,75.5,218,26,4.73,22,34.5,128,4.08,6.93
+2005,Craig Ochs,Montana,QB,73.75,218,,4.91,,28.5,101,4.13,7.03
+2005,Dan Orlovsky,Connecticut,QB,77,225,30,4.98,,29.5,105,4.39,7.33
+2005,Kyle Orton,Purdue,QB,76,233,27,5.11,,26.5,,4.52,7.38
+2005,Bryan Randall,Virginia Tech,QB,72.25,225,19,4.72,,33,112,4.08,6.97
+2005,Chris Rix,Florida State,QB,74,214,26,4.73,,33.5,113,4.53,7.53
+2005,Aaron Rodgers,California,QB,74,223,39,4.75,,34.5,110,,7.38
+2005,Alex Smith,Utah,QB,76.13,217,40,4.78,,32,113,3.96,6.82
+2005,Jason White,Oklahoma,QB,74.5,223,31,4.93,,31,102,4.19,7.28
+2004,Jason Fife,Oregon,QB,75.9,226,26,4.95,,30.5,113,4.18,7.28
+2004,Josh Harris,Bowling Green (OH),QB,73.5,238,25,4.84,,31,115,,
+2004,Robert Kent,Jackson State (MS),QB,76.3,222,,4.85,,26.5,110,4.22,7.69
+2004,Craig Krenzel,Ohio State,QB,75.5,228,38,4.84,,28,112,4.08,7.22
+2004,J.P. Losman,Tulane (LA),QB,74.3,224,31,4.7,,33,116,,
+2004,Eli Manning,Mississippi,QB,76.8,221,39,4.9,,,,,
+2004,Luke McCown,Louisiana Tech,QB,75.9,208,24,4.71,,37.5,125,4.21,6.74
+2004,John Navarre,Michigan,QB,78,246,24,5.18,,26.5,100,4.46,7.73
+2004,Cody Pickett,Washington,QB,75.5,233,19,4.8,,30.5,109,4.3,7.19
+2004,Scott Rislov,San Jose State,QB,73,224,,4.94,,30,119,4.34,7.44
+2004,Philip Rivers,North Carolina State,QB,77,229,30,5.08,,,,,
+2004,Ben Roethlisberger,Miami (OH),QB,76.9,241,25,4.75,,,,,
+2004,Rod Rutherford,Pittsburgh,QB,73.6,240,17,4.79,,30.5,110,4.41,7.66
+2004,Matt Schaub,Virginia,QB,77.6,243,30,5.05,,30.5,110,4.62,7.65
+2004,Jeff Smoker,Michigan State,QB,75.1,223,23,4.95,,26.5,101,4.36,7.65
+2004,Bradlee Van Pelt,Colorado State,QB,74.3,231,25,4.96,,33.5,115,4.11,6.89
+2003,Brad Banks,Iowa,QB,70.8,201,13,4.67,,33.5,112,,
+2003,Josh Blankenship,Tulsa (OK),QB,74,211,24,5.16,,28.5,103,4.42,7.59
+2003,Kyle Boller,California,QB,75,234,27,4.65,,35.5,117,3.99,7.19
+2003,D Bryant,Duke,QB,74,218,23,4.78,,35.5,114,4.34,7.36
+2003,Rex Grossman,Florida,QB,73,217,29,5.06,,,,,
+2003,Kliff Kingsbury,Texas Tech,QB,75.5,213,31,4.76,,30,101,4.07,6.91
+2003,Byron Leftwich,Marshall (WV),QB,77.4,241,25,5.1,,,,,
+2003,Carson Palmer,Southern California,QB,77,232,26,4.65,,,,,
+2003,Dave Ragone,Louisville,QB,75.6,249,31,4.98,,30.5,101,4.32,7.4
+2003,Tony Romo,Eastern Illinois,QB,74,230,30,5.01,,30,105,4.2,7.11
+2003,Chris Simms,Texas,QB,76.4,220,22,4.86,,31,103,4.18,7.37
+2003,Brian St. Pierre,Boston College,QB,75,218,27,4.82,,30,106,,
+2003,Seneca Wallace,Iowa State,QB,71.4,196,12,4.52,,38,127,4.14,6.97
+2003,Juston Wood,Portland State (OR),QB,72.6,207,30,4.84,,32.5,113,4.07,7.13
+2002,David Carr,Frenso State (CA),QB,75.4,223,24,4.67,,35,106,4.28,7.05
+2002,Ronald Curry,North Carolina,QB,73.9,220,22,4.65,,35,110,4.11,7.06
+2002,Rohan Davey,Louisiana State,QB,74,245,17,4.74,,25.5,,,
+2002,Brandon Doman,Brigham Young,QB,73.8,210,27,4.87,,32.5,106,4.08,6.9
+2002,Randy Fasani,Stanford,QB,75.4,234,25,4.78,,31.5,106,3.87,6.75
+2002,David Garrard,East Carolina (NC),QB,73.9,235,14,4.83,,33.5,110,4.26,7.35
+2002,Joey Harrington,Oregon,QB,76,215,32,4.85,,32,107,4.21,7
+2002,Kurt Kittner,Illinois,QB,74.3,211,31,4.86,,27,97,4.5,7.34
+2002,Josh McCown,Sam Houston State (TX),QB,75.9,221,30,4.64,,38.5,118,3.9,6.85
+2002,David Neill,Nevada,QB,75,206,25,4.95,,30,108,4.44,7.28
+2002,J.T. O'Sullivan,UC-Davis,QB,74.1,223,35,4.93,,29,105,4.28,7.46
+2002,Patrick Ramsey,Tulane (LA),QB,74.5,219,32,5.24,,33.5,111,4.09,7.12
+2002,Greg Zolman,Vanderbilt,QB,73.8,220,23,4.9,,34,110,4.14,7.06
+2001,Jonathan Beasley,Kansas State,QB,73,227,20,4.85,,29.5,102,4.38,7.55
+2001,Josh Booty,Louisiana State,QB,74.5,221,27,4.95,,29.5,105,4.48,7.54
+2001,Drew Brees,Purdue,QB,72.3,213,28,4.85,,32,105,4.21,7.09
+2001,Quincy Carter,Georgia,QB,74.1,225,30,4.61,,35.5,113,4.12,7.12
+2001,Justin Coleman,Nebraska-Kearney,QB,76.4,238,31,5.19,20,29.5,101,4.62,7.78
+2001,Shane Griggs,Idaho State,QB,75.9,199,29,4.84,,,,,
+2001,Tim Hasselbeck,Boston College,QB,73,211,23,4.83,,33,113,4.4,7.27
+2001,Josh Heupel,Oklahoma,QB,73.8,215,30,4.82,,37.5,114,4.15,7.18
+2001,Ortege Jenkins,Arizona,QB,72.6,234,14,4.83,,34.5,108,4.4,7.32
+2001,Cleo Lemon,Arkansas State,QB,74,226,18,4.87,,35.5,106,4.27,7.33
+2001,Mike McMahon,Rutgers,QB,74.4,207,27,4.55,,37.5,124,4.12,7.12
+2001,Romaro Miller,Mississippi,QB,72.1,205,11,4.64,,35,110,4.51,7.4
+2001,Jesse Palmer,Florida,QB,74,231,32,4.79,,35.5,112,4.29,7.13
+2001,David Rivers,Western Carolina,QB,75,223,27,4.73,,31.5,115,4.2,7.37
+2001,Sage Rosenfels,Iowa State,QB,76.4,228,32,4.77,,34,107,4.29,7.07
+2001,Marques Tuiasosopo,Washington,QB,73.1,223,24,4.71,,35.5,115,4.35,7.36
+2001,Michael Vick,Virginia Tech,QB,72,210,20,4.33,,38,,,
+2000,Tom Brady,Michigan,QB,76.4,211,33,5.3,,24.5,99,4.38,7.2
+2000,Travis Brown,Northern Arizona,QB,75.5,218,35,5.03,,29,101,4.87,7.54
+2000,Marc Bulger,West Virginia,QB,73.6,208,29,4.96,,,100,4.34,7.46
+2000,Bill Burke,Michigan State,QB,75.9,206,30,5.07,,28.5,107,4.42,7.46
+2000,Giovanni Carmazzi,Hofstra (NY),QB,74.6,224,32,4.76,,36.5,119,4.23,6.94
+2000,Kevin Feterik,Brigham Young,QB,71,207,18,4.94,,31,106,4.45,7.3
+2000,Justin Fuente,Murray State (KY),QB,73.4,225,33,5.24,,27.5,100,4.42,7.51
+2000,Joe Hamilton,Georgia Tech,QB,70.3,192,18,4.84,,,106,,
+2000,Todd Husak,Stanford,QB,75.1,216,39,5.22,,27.5,99,4.41,7.17
+2000,Jarious Jackson,Notre Dame,QB,73,226,18,4.68,,,109,,
+2000,Doug Johnson,Florida,QB,74.4,226,28,4.95,,29.5,96,,
+2000,Sean Keenan,Williams College (MA),QB,75,202,32,5.03,,25.5,95,4.41,7.21
+2000,Tim Lester,Western Michigan,QB,72.4,202,26,5.05,,27,97,4.24,7.28
+2000,Tee Martin,Tennessee,QB,73.6,227,11,4.61,,34.5,113,,
+2000,Chad Pennington,Marshall (WV),QB,75.4,229,25,4.85,,33.5,111,4.16,7.12
+2000,Tim Rattay,Louisiana Tech,QB,72.5,215,27,4.93,,25.5,100,4.21,7.34
+2000,Chris Redman,Louisville,QB,74.8,222,16,5.37,,26.5,98,4.78,7.8
+2000,Spergon Wynn,Texas State,QB,75.4,229,25,4.95,,34,108,4.59,7.71
+1999,Todd Bandhaur,Iowa State,QB,75,236,31,5.26,,31,103,4.61,7.66
+1999,Michael Bishop,Kansas State,QB,73,205,10,4.85,,33,113,4.62,7.63
+1999,Aaron Brooks,Virginia,QB,75.5,203,17,4.59,,35.5,118,4.29,7.52
+1999,Mike Cook,William & Mary (VA),QB,71.6,207,22,4.84,,33.5,112,4.32,7.29
+1999,Tim Couch,Kentucky,QB,76.1,225,22,5.08,,31,,4.34,
+1999,Scott Covington,Miami (FL),QB,74.1,219,21,4.67,,34,107,4.42,7.62
+1999,Daunte Culpepper,Central Florida,QB,75.8,255,18,4.52,,39,122,4.13,7.21
+1999,Kevin Daft,UC-Davis,QB,73.8,203,32,4.91,,32.5,109,4.37,7.39
+1999,Oscar Davenport,North Carolina,QB,75.5,199,6,4.89,,31,103,4.82,7.5
+1999,Scott Dreisbach,Michigan,QB,75,216,20,4.78,,33,109,4.27,7.06
+1999,Mark Garcia,Ohio State,QB,75,220,21,4.77,,33.5,107,4.2,7.36
+1999,Joe Germaine,Ohio State,QB,73.3,211,25,4.8,,32,102,4.21,7.18
+1999,Chris Greisen,Northwest Missouri State,QB,74.5,223,27,5.06,,30.5,107,4.33,7.29
+1999,Brock Huard,Washington,QB,77,227,25,5.12,,30.5,107,4.44,7.44
+1999,Shaun King,Tulane (LA),QB,72,221,25,4.77,,33,113,4.29,
+1999,Brian Kuklick,Wake Forest,QB,74.1,204,29,4.9,,31,103,4.56,7.66
+1999,Graham Leigh,New Mexico,QB,73.9,212,22,4.79,,32.5,111,4.27,7.21
+1999,Jason Maas,Oregon,QB,74,210,43,4.97,,31.5,103,4.35,7.43
+1999,Donovan McNabb,Syracuse,QB,74.3,223,14,4.64,,33,116,4.38,7.3
+1999,Cade McNown,UCLA,QB,72.9,213,28,4.76,,33.5,108,4.28,7.27
+1999,Akili Smith,Oregon,QB,74.8,227,26,4.7,,34,111,4.29,6.99
+1999,Ted White,Howard (DC),QB,74.4,226,12,5.14,,30.5,106,4.51,7.5
+1999,Anthony Wright,South Carolina,QB,73.4,195,16,4.74,,31,116,4.35,7.45
+1998,Charlie Batch,Eastern Michigan,QB,73.9,216,,4.89,,33.5,118,4.11,7.6
+1998,Thad Busby,Florida State,QB,74.1,223,,4.97,,30.5,110,,
+1998,Ryan Clement,Miami (FL),QB,73,212,,5.02,,31,104,4.39,7.85
+1998,John Dutton,Nevada Las Vegas,QB,75.9,219,,4.68,,29,104,4.22,7.55
+1998,Shane Fortney,Northern Iowa,QB,73.6,225,,4.72,,33.5,114,4.3,7.74
+1998,Dan Gonzalez,East Carolina (NC),QB,74.6,214,,4.89,,29,104,4.23,7.58
+1998,Paul Kaiser,Central Missouri,QB,74.6,211,,4.78,,34.5,114,4.04,7.25
+1998,Ryan Leaf,Washington State,QB,77.4,261,,,,,,,
+1998,Peyton Manning,Tennessee,QB,77.3,230,,,,,,,
+1998,Chris Mccoy,Navy,QB,69.8,196,,4.8,15,29.5,109,,
+1998,Mike Mcqueary,Penn State,QB,76.3,223,,5.16,,26,99,4.4,7.79
+1998,Ron Powlus,Notre Dame,QB,73.6,219,,5.1,,26,98,4.35,7.53
+1998,Cory Sauter,Minnesota,QB,76.1,218,,4.98,,31,109,4.15,7.45
+1998,Matt Sherman,Iowa,QB,73.9,207,,5.06,,26.5,103,4.37,7.68
+1997,Jim Arellanes,Frenso State (CA),QB,75.1,211,,5.19,,27,102,4.67,8.03
+1997,Pat Barnes,California,QB,75.1,212,,,,,,,
+1997,Mike Cherry,Murray State (KY),QB,75.9,222,,5.11,,28.5,105,4.38,7.8
+1997,Chuck Clements,Houston,QB,74.6,211,,4.98,,31.5,108,4.36,7.69
+1997,Marcus Crandell,East Carolina (NC),QB,71.4,204,,4.78,,30,105,4.67,8.25
+1997,Jason Davis,Western State Colorado,QB,75.5,220,,4.92,,30.5,107,4.33,7.85
+1997,Koy Detmer,Colorado,QB,72.9,180,,5.14,,28.5,103,4.37,7.79
+1997,Jim Druckenmiller,Virginia Tech,QB,76.6,234,,,,29,106,4.28,7.92
+1997,Lance Funderburk,Valdosta State (GA),QB,76.4,227,,5.23,,27,97,,
+1997,Eric Kresser,Marshall (WV),QB,74.3,220,,,,,,,
+1997,Jason Martin,Louisiana Tech,QB,74.4,234,,5.01,,29,101,4.47,7.81
+1997,Brad Otton,Southern California,QB,78.1,224,,5,,31.5,112,4.39,7.54
+1997,Jake Plummer,Arizona State,QB,74.3,195,,4.96,,30,111,4.29,7.3
+1997,Wally Richardson,Penn State,QB,76.4,221,,4.95,,31,109,4.47,7.97
+1997,Steve Sarkisian,Brigham Young,QB,72.4,208,,4.96,,30,104,4.51,8.16
+1997,Danny Wuerffel,Florida,QB,73.8,212,,4.9,,28,100,4.42,7.69
+1996,Tony Banks,Michigan State,QB,76.5,220,,4.93,,,,4.55,
+1996,Grady Benton,West Texas A&M,QB,73.8,196,,4.88,,29,109,4.62,
+1996,Brook Berringer,Nebraska,QB,75.5,218,,4.69,,33,113,4.13,
+1996,Antwan Chiles,Liberty (VA),QB,73.1,240,,4.94,,30,105,4.73,
+1996,Dave Dickenson,Montana,QB,70.4,185,,5.19,,29,108,4.51,
+1996,Mike Groh,Virginia,QB,74.8,204,,5.17,,31,117,4.41,
+1996,Bobby Hoying,Ohio State,QB,75.3,221,,4.73,,31,108,4.16,
+1996,Danny Kanell,Florida State,QB,75.4,222,,,,,,,
+1996,Josh Larocca,Rice (TX),QB,72.9,209,,,,,,,
+1996,Jeff Lewis,Northern Arizona,QB,73.8,215,,,,,,,
+1996,Scott Milanovich,Maryland,QB,74.5,218,,,,,,,
+1996,Alfred Montez,Western New Mexico,QB,73.6,235,,5.07,,24.5,99,4.79,
+1996,Josh Nelson,Mississippi,QB,74.1,198,,5.05,,31.5,108,4.53,
+1996,Kendrick Nord,Grambling State (LA),QB,74.5,207,,4.71,,36.5,120,4.32,
+1996,James Richey,Stephen F. Austin (TX),QB,73.8,211,,4.97,,25.5,107,,
+1996,Aaron Sparrow,Norfolk State (VA),QB,72.5,211,,4.94,,29.5,108,4.21,
+1996,Jon Stark,Trinity International (IL),QB,75.8,222,,,,,,,
+1996,Steve Taneyhill,South Carolina,QB,74.4,220,,,,,,,
+1996,Kyle Wachholtz,Southern California,QB,76.3,233,,5.14,,25,96,4.65,
+1996,Dan White,Arizona,QB,72.5,211,,,,,,,
+1995,Jay Barker,Alabama,QB,74.4,212,,4.94,,27,105,4.31,
+1995,Dave Barr,California,QB,74.9,210,,,,,,,
+1995,Stoney Case,New Mexico,QB,74.5,206,,4.83,,30.5,111,4.25,
+1995,Kerry Collins,Penn State,QB,77,240,,,,,,,
+1995,Todd Collins,Michigan,QB,76.6,224,,5.07,,30,111,4.34,
+1995,Frank Costa,Miami (FL),QB,75.3,215,,5.13,,25,101,4.66,
+1995,Ed Daniels,Langston (OK),QB,74.1,203,,5,,27,110,4.47,
+1995,Terry Dean,Florida,QB,73.5,213,,4.91,,30,111,4.12,
+1995,Kelly Holcomb,Middle Tennessee State,QB,74.4,202,,5.12,,28,107,4.44,
+1995,Rob Johnson,Southern California,QB,75.3,223,,,,,,,
+1995,Kevin Mason,Syracuse,QB,75,205,,4.7,,31,113,4.09,
+1995,Chad May,Kansas State,QB,73.4,226,,,,,,,
+1995,Steve Mcnair,Alcorn State (MS),QB,73.6,224,,,,,115,,
+1995,John Sacca,Eastern Kentucky,QB,74.4,206,,5.07,,27.5,107,4.38,
+1995,Steve Stenstrom,Stanford,QB,73.9,199,,5.08,,28,100,4.03,
+1995,Kordell Stewart,Colorado,QB,73.5,212,,4.52,,36,125,4.13,
+1995,John Walsh,Brigham Young,QB,75,214,,,,,,,
+1995,Eric Zeier,Georgia,QB,72.5,208,,,,,,,
+1994,Jim Ballard,Mount Union (OH),QB,74.9,223,,5.08,,26.5,108,4.25,
+1994,Jeff Brohm,Louisville,QB,72.8,208,,,,34.5,113,4.23,
+1994,Paul Burmeister,Iowa,QB,74.4,215,,5.1,,29.5,108,4.36,
+1994,Robert Cobb,Louisiana-Monroe,QB,74.5,217,,,,26,104,4.76,
+1994,Trent Dilfer,Frenso State (CA),QB,75.3,228,,,,,,,
+1994,Clint Dolezel,East Texas Baptist,QB,76.4,189,,5.01,,26.5,112,4.38,
+1994,Jay Fiedler,Dartmouth (NH),QB,73.4,215,,4.81,,33.5,116,4.46,
+1994,Glenn Foley,Boston College,QB,72.8,212,,,,,,,
+1994,Gus Frerotte,Tulsa (OK),QB,75,221,,5.04,,26,102,4.79,
+1994,Marvin Graves,Syracuse,QB,72.8,201,,5.14,,27.5,105,4.54,
+1994,Jake Kelchner,West Virginia,QB,73,218,,5.12,,27,99,4.47,
+1994,Perry Klein,LIU-CW Post (NY),QB,74.4,214,,4.84,,32.5,115,4.2,
+1994,Jimmy Klingler,Houston,QB,74.5,218,,5.03,,29.5,111,4.45,
+1994,Steve Matthews,Memphis,QB,74.9,208,,,,,,,
+1994,Jim Miller,Michigan State,QB,74.3,227,,5.13,,24.5,100,4.39,
+1994,Cree Morris,Saint Mary's (CA),QB,79,239,,5.36,,26.5,99,4.73,
+1994,Doug Nussmeier,Idaho,QB,74.9,211,,4.88,,33,113,4.13,
+1994,Heath Shuler,Tennessee,QB,74,221,,,,,,,
+1994,Jewel Walker,Howard (DC),QB,75.1,235,,5.02,,30,106,4.66,
+1993,Drew Bledsoe,Washington State,QB,77,233,,,,32.5,111,4.54,
+1993,John Bonds,Northern Arizona,QB,76.4,230,,5.02,,28.5,106,4.27,
+1993,Mark Brunell,Washington,QB,73,206,,4.7,,30.5,112,4.19,
+1993,John Charles,Portland State (OR),QB,71.4,211,,,,,,,
+1993,Elvis Grbac,Michigan,QB,77.1,232,,4.81,,31.5,112,4.5,
+1993,Trent Green,Indiana,QB,74.5,211,,4.92,,32.5,116,4.2,
+1993,Billy Joe Hobert,Washington,QB,74.6,234,,4.89,,30.5,109,4.29,
+1993,Eric Hunter,Purdue,QB,75.5,212,,4.72,,36.5,122,4.39,
+1993,Troy Kopp,Pacific (CA),QB,73.3,212,,5.12,,26.5,103,4.46,
+1993,Brad Lebo,Montana,QB,75.1,228,,5.17,,27.5,103,4.62,
+1993,Jeff Loots,Southwest Minnesota,QB,73,192,,4.96,,27.5,104,4.28,
+1993,Jamie Martin,Weber State (UT),QB,74.4,210,,4.83,,31,115,4.3,
+1993,Shane Matthews,Florida,QB,74.6,196,,4.89,,32,105,4.37,
+1993,Rick Mirer,Notre Dame,QB,74,216,,,,,,,
+1993,Henderson Mosely,Central State (OH),QB,72.6,241,,4.87,,31.5,105,4.76,
+1993,Charles Puleri,New Mexico State,QB,72.1,208,,5.1,,24.5,99,4.53,
+1993,Steve Smith,Western State Colorado,QB,76.3,223,,,,,,,
+1993,Gino Torretta,Miami (FL),QB,74,219,,,,31,106,,
+1993,Alex Van Pelt,Pittsburgh,QB,72,212,,4.97,,30.5,,,
+1993,Erik White,Bowling Green (OH),QB,76.5,206,,4.89,,28.5,106,4.59,
+1993,Greg Willig,Rice (TX),QB,78,234,,5.31,,23,90,4.66,
+1992,Mark Barsotti,Frenso State (CA),QB,73.5,207,,4.92,,28.5,108,4.5,
+1992,Jeff Bender,Central Michigan,QB,73.1,212,,5.06,,29.5,110,4.58,
+1992,Jeff Blake,East Carolina (NC),QB,71.8,202,,4.86,,30.5,115,4.6,
+1992,Matt Blundin,Virginia,QB,78,228,,4.99,,25.5,103,4.53,
+1992,Ty Detmer,Brigham Young,QB,71.8,179,,,,,,,
+1992,Will Furrer,Virginia Tech,QB,74.6,208,,4.88,,32,106,4.46,
+1992,Kent Graham,Ohio State,QB,76.9,232,,5.14,,27.5,103,4.21,
+1992,Chris Hakel,William & Mary (VA),QB,74.3,231,,5.17,,23.5,102,4.79,
+1992,Brad Johnson,Florida State,QB,76.5,218,,5.02,,29.5,110,4.29,
+1992,Andy Kelly,Tennessee,QB,74.4,217,,5.14,,26,103,4.31,
+1992,David Klingler,Houston,QB,74.5,205,,4.82,,32.5,111,4.01,
+1992,Tony Lowery,Wisconsin,QB,74,184,,4.76,,32.5,119,4.31,
+1992,Keithen Mccant,Nebraska,QB,73.6,208,,4.71,,31.5,120,,
+1992,Mike Pawlawski,California,QB,73.5,204,,4.89,,29.5,112,4.46,
+1992,Chris Pederson,Iowa State,QB,74.4,223,,4.84,,29,101,4.34,
+1992,Matt Rodgers,Iowa,QB,74.3,213,,4.98,,26.5,110,4.22,
+1992,T.J. Rubley,Tulsa (OK),QB,74.6,199,,4.88,,27,,4.22,
+1992,Tony Sacca,Penn State,QB,76.6,234,,4.86,,29.5,107,4.21,
+1992,Matt Veatch,San Jose State,QB,75.6,207,,4.87,,30.5,109,4.34,
+1992,Kevin Verdugo,Colorado State,QB,74.6,211,,5.21,,23.5,97,4.53,
+1992,Casey Weldon,Florida State,QB,72.6,200,,4.83,,32.5,102,4.06,
+1991,Grady Bennett,Montana,QB,74,209,,4.97,,29.5,106,4.49,
+1991,Tom Bill,Penn State,QB,73.4,214,,5.08,,27.5,105,4.61,
+1991,Jeff Bridewell,UC-Davis,QB,75.9,214,,5.05,,27.5,106,4.58,
+1991,Chris Cochrane,Cornell (NY),QB,74.1,218,,5.03,,28.5,100,4.38,
+1991,Matthew Degennaro,Connecticut,QB,72.6,206,,4.95,,29.5,104,4.51,
+1991,Dan Enos,Michigan State,QB,72,192,,4.81,,26,102,4.22,
+1991,Brett Favre,Southern Mississippi,QB,74,217,,,,,,,
+1991,Greg Frey,Ohio State,QB,73.4,197,,5.07,,27,100,4.3,
+1991,Brad Gossen,Washington State,QB,73,213,,5.27,,25,97,4.52,
+1991,David Gulledge,Jacksonville State (AL),QB,73.3,203,,,,32,116,,
+1991,Donald Hollas,Rice (TX),QB,75.1,215,,4.93,,28.5,104,4.31,
+1991,Greg Jones,West Virginia,QB,73.3,208,,4.98,,27.5,102,4.56,
+1991,Paul Justin,Arizona State,QB,75.8,202,,5.04,,27.5,104,4.36,
+1991,Ralph Martini,San Jose State,QB,74.1,223,,5.17,,27,103,4.43,
+1991,Dan Mcgwire,San Diego State,QB,79.9,243,,5.1,,31.5,114,4.36,
+1991,Shawn Moore,Virginia,QB,73.9,213,,,,,,,
+1991,Bill Musgrave,Oregon,QB,74.3,200,,4.98,,30.5,106,4.27,
+1991,Browning Nagle,Louisville,QB,74.3,231,,,,,,,
+1991,Billy Ray,Duke,QB,74.3,199,,4.96,,34.5,118,4.38,
+1991,Deron Smith,Tulane (LA),QB,76.1,216,,4.69,,33,116,4.31,
+1991,Leonard Valentine,Nicholls State (LA),QB,72,231,,,,,,,
+1991,Scott Zolak,Maryland,QB,77,222,,5.01,,30.5,105,4.4,
+1990,Kirk Baumgartner,Wisconsin-Steven's Point,QB,74.8,203,,5.2,,23,100,4.64,
+1990,Frank Baur,Lafayette (PA),QB,75.1,220,,4.97,,26,106,4.36,
+1990,Mike Buck,Maine,QB,74.6,218,,5.04,,25,103,4.33,
+1990,Mark Carr,New Hampshire,QB,76.9,225,,5.07,,27.5,101,4.39,
+1990,Cary Conklin,Washington,QB,76,215,,4.96,,26.5,109,4.56,
+1990,Todd Ellis,South Carolina,QB,73.3,203,,,,,,,
+1990,Scott Erney,Rutgers,QB,73.5,200,,4.93,,29.5,108,4.14,
+1990,John Friesz,Idaho,QB,76.3,209,,5.29,,22,97,4.57,
+1990,Clemente Gordon,Grambling State (LA),QB,75,222,,4.84,,28,109,4.54,
+1990,John Gromos,Vanderbilt,QB,76.3,210,,5.01,,27,100,4.31,
+1990,Mike Gundy,Oklahoma State,QB,70.4,184,,5.15,,26,99,4.27,
+1990,Wally Henry,Mississippi College,QB,74.8,200,,,,,,,
+1990,Tommy Hodson,Louisiana State,QB,74,189,,4.94,,30.5,110,4.4,
+1990,Mike Johnson,Akron,QB,73.5,190,,4.92,,28,111,4.34,
+1990,Neil O'Donnell,Maryland,QB,74.3,217,,4.89,,32.5,109,4.03,
+1990,Michael Proctor,Murray State (KY),QB,74.3,202,,,,,118,,
+1990,Tony Rice,Notre Dame,QB,72.3,197,,4.82,,37,118,4.1,
+1990,Dave Schnell,Indiana,QB,73.5,214,,5.03,,26,105,4.48,
+1990,Reggie Slack,Auburn,QB,73.1,217,,,,,,,
+1990,Troy Taylor,California,QB,75.4,201,,4.73,,33.5,116,4.13,
+1990,Peter Willis,Florida State,QB,74,188,,5.12,,26,94,4.53,
+1989,Jeff Carlson,Weber State (UT),QB,75,209,,5.06,,32,106,4.41,
+1989,Anthony Dilweg,Duke,QB,75.4,199,,4.78,,28,102,4.37,
+1989,Mike Elkins,Wake Forest,QB,75.3,221,,5.02,,29.5,97,4.5,
+1989,Jeff Francis,Tennessee,QB,75.5,218,,4.9,,29.5,102,4.51,
+1989,Jason Garrett,Princeton,QB,72.5,192,,4.85,,29.5,109,4.06,
+1989,Mickey Guidry,Louisiana State,QB,73.5,210,,,,,,,
+1989,Chuck Hartlieb,Iowa,QB,72.8,208,,,,,,4.17,
+1989,James Harvey,North Carolina Central,QB,73.4,207,,4.94,,29,105,4.53,
+1989,Bob Jean,New Hampshire,QB,74,210,,4.88,,32.5,117,4.6,
+1989,Eric Jones,Vanderbilt,QB,72.9,196,,4.79,,35,116,4.03,
+1989,Terrence Jones,Tulane (LA),QB,73.3,209,,4.64,,34,110,4.34,
+1989,Drew Komlo,Catholic University (DC),QB,75.3,215,,5.19,,26.5,97,4.64,
+1989,Rodney Peete,Southern California,QB,72.5,195,,4.72,,29,103,4.53,
+1989,Todd Philcox,Syracuse,QB,76,213,,5.12,,27.5,100,4.43,
+1989,Brent Snyder,Utah State,QB,75.3,225,,5.09,,25.5,104,4.45,
+1989,Billy Joe Tolliver,Texas Tech,QB,72.6,217,,5.09,,28.5,96,4.42,
+1989,Erik Wilhelm,Oregon State,QB,74.8,209,,5.18,,26,101,4.21,
+1988,Kerwin Bell,Florida,QB,74.1,200,,5.07,,28.5,102,4.63,
+1988,Jeff Burger,Auburn,QB,71.9,208,,4.72,,32.5,108,4.39,
+1988,Chris Chandler,Washington,QB,75.9,211,,4.87,10,30,102,4.4,
+1988,Dan Henning,Maryland,QB,71.5,195,,5.27,5,26.5,99,4.64,
+1988,Stan Humphries,Louisiana-Monroe,QB,73.9,223,,4.93,,28,102,4.56,
+1988,Matthew Knizner,Penn State,QB,74.4,198,,4.91,,28.5,101,4.6,
+1988,Mark Maye,North Carolina,QB,75,196,,,,,,,
+1988,Dan Mccoin,Cincinnati,QB,74.6,206,,5.1,,25.5,97,4.62,
+1988,Danny Mcmanus,Florida State,QB,71.5,196,,4.86,,25,101,4.49,
+1988,Don Mcpherson,Syracuse,QB,73.1,181,,4.53,,32,114,4.2,
+1988,Mike Perez,San Jose State,QB,73.5,207,,,16,,,,
+1988,Todd Santos,San Diego State,QB,73.9,207,,4.98,10,27.5,100,4.5,
+1988,Steve Slayden,Duke,QB,73.5,185,,4.99,1,26.5,103,4.57,
+1988,Rick Strom,Georgia Tech,QB,74.3,203,,4.72,9,31,108,4.39,
+1987,Steve Beuerlein,Notre Dame,QB,74.4,203,,5.1,3,23,93,4.63,
+1987,Cody Carlson,Baylor,QB,75,191,,4.82,,29.5,111,4.45,
+1987,Rich Gannon,Delaware,QB,74.3,193,,4.58,7,32.5,110,4.11,
+1987,Shawn Halloran,Boston College,QB,76.3,217,,5.14,10,23.5,94,4.53,
+1987,Jim Harbaugh,Michigan,QB,74.3,203,,,,,,,
+1987,Doug Hudson,Nicholls State (LA),QB,73.8,197,,4.86,,25,105,4.52,
+1987,Don Majkowski,Virginia,QB,73.5,199,,4.83,,34,116,4.13,
+1987,Chris Miller,Oregon,QB,73.4,190,,4.74,,30.5,117,4.35,
+1987,Bill Ransdell,Kentucky,QB,73.5,204,,4.96,10,24,99,4.22,
+1987,Mike Shula,Alabama,QB,74,201,,5.13,2,26.5,99,4.49,
+1987,Loren Snyder,Northern Colorado,QB,75.6,207,,5.15,6,26.5,104,4.63,
+1987,Kelly Stouffer,Colorado State,QB,75,212,,4.95,,28,108,4.51,
+1987,Kevin Sweeney,Frenso State (CA),QB,71.3,187,,,,,,,
+1987,Vinny Testaverde,Miami (FL),QB,76.3,213,,4.75,13,,,,
+1987,Jeff Van Raaphorst,Arizona State,QB,73,206,,4.83,8,24,106,4.41,
